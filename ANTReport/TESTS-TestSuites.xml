@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="SRIRAM-PC" id="0" name="A" package="SeleniumA" skipped="12" tests="13" time="7.75" timestamp="2017-01-28T14:40:14">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="test.reportsDir" value="D:\Testing\Workspace\ANT_Example/ANTReport" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="env.FP_NO_HOST_CHECK" value="NO" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes" />
+
+          <property name="ws.home" value="D:\Testing\Workspace\ANT_Example" />
+
+          <property name="env.COMPUTERNAME" value="SRIRAM-PC" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="D:\apache-ant-1.9.4" />
+
+          <property name="java.runtime.version" value="1.8.0_77-b03" />
+
+          <property name="env.HOMEPATH" value="\Users\SRIRAM" />
+
+          <property name="user.name" value="SRIRAM" />
+
+          <property name="user.language" value="en" />
+
+          <property name="env.windows_tracing_flags" value="3" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin" />
+
+          <property name="ant.project.default-target" value="usage" />
+
+          <property name="ant.project.name" value="Test Automation Framework" />
+
+          <property name="java.version" value="1.8.0_77" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="AMD64 Family 21 Model 19 Stepping 1, AuthenticAMD" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\Users\SRIRAM\AppData\Local\Temp" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_77\bin\java.exe" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre" />
+
+          <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+
+          <property name="env.APPDATA" value="C:\Users\SRIRAM\AppData\Roaming" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="D:\Testing\Workspace\ANT_Example\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="env._USE_CLASSPATH" value="no" />
+
+          <property name="ant.file.Test Automation Framework" value="D:\Testing\Workspace\ANT_Example\build.xml" />
+
+          <property name="env.=::" value="::\" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.77-b03" />
+
+          <property name="user.variant" value="" />
+
+          <property name="env.USERPROFILE" value="C:\Users\SRIRAM" />
+
+          <property name="ant.library.dir" value="D:\apache-ant-1.9.4\lib" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_77" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\Users\SRIRAM\AppData\Local\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp437" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\SRIRAM" />
+
+          <property name="test.dest" value="D:\Testing\Workspace\ANT_Example/build" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.M2_HOME" value="C:\Selenium\maven" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Selenium\maven\bin;D:\apache-ant-1.9.4\bin;C:\Program Files\nodejs\;C:\Selenium\maven\bin;C:\Users\SRIRAM\AppData\Roaming\npm;." />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner SeleniumA.A skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Testing\Workspace\ANT_Example\ANTReport\TEST-SeleniumA.A.xml crashfile=D:\Testing\Workspace\ANT_Example\junitvmwatcher8780351082216955608.properties propsfile=D:\Testing\Workspace\ANT_Example\junit8843963655699061214.properties" />
+
+          <property name="java.class.path" value="D:\Testing\Workspace\ANT_Example\build;D:\Jars\SaxonLiaison.jar;D:\Jars\ant-1.7.0.jar;D:\Jars\ant-launcher-1.7.0.jar;D:\Jars\apache-mime4j-0.6.jar;D:\Jars\bsh-2.0b4.jar;D:\Jars\bson-3.0.4.jar;D:\Jars\cglib-nodep-2.1_3.jar;D:\Jars\commons-codec-1.10.jar;D:\Jars\commons-exec-1.3.jar;D:\Jars\commons-io-2.4.jar;D:\Jars\commons-io-2.5.jar;D:\Jars\commons-logging-1.2.jar;D:\Jars\cucumber-core-1.2.4.jar;D:\Jars\cucumber-html-0.2.3.jar;D:\Jars\cucumber-java-1.2.4.jar;D:\Jars\cucumber-junit-1.2.4.jar;D:\Jars\cucumber-jvm-deps-1.0.5.jar;D:\Jars\extentreports-2.41.2.jar;D:\Jars\freemarker-2.3.23.jar;D:\Jars\gherkin-2.12.2.jar;D:\Jars\gson-2.3.1.jar;D:\Jars\guava-19.0.jar;D:\Jars\hamcrest-core-1.1.jar;D:\Jars\hamcrest-core-1.3.jar;D:\Jars\hamcrest-library-1.3.jar;D:\Jars\httpclient-4.5.1.jar;D:\Jars\httpcore-4.4.3.jar;D:\Jars\httpmime-4.5.jar;D:\Jars\jcommander-1.48.jar;D:\Jars\jdom2-2.0.5.jar;D:\Jars\jna-4.1.0.jar;D:\Jars\jna-platform-4.1.0.jar;D:\Jars\jsoup-1.8.3.jar;D:\Jars\junit-4.12.jar;D:\Jars\mongodb-driver-3.0.4.jar;D:\Jars\mongodb-driver-core-3.0.4.jar;D:\Jars\netty-3.5.7.Final.jar;D:\Jars\phantomjsdriver-1.2.1.jar;D:\Jars\saxon-8.7.jar;D:\Jars\selenium-java-2.53.1.jar;D:\Jars\selenium-server-standalone-2.53.1.jar;D:\Jars\snakeyaml-1.15.jar;D:\Jars\sqlite-jdbc-3.8.11.1.jar;D:\Jars\testng-6.9.9.jar;D:\apache-ant-1.9.4\lib\ant-launcher.jar;D:\apache-ant-1.9.4\lib\ant.jar;D:\apache-ant-1.9.4\lib\ant-junit.jar;D:\apache-ant-1.9.4\lib\ant-junit4.jar" />
+
+          <property name="ws.jars" value="D:/Jars" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="env.LOGONSERVER" value="\\SRIRAM-PC" />
+
+          <property name="env.windir" value="C:\Windows" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.os.patch.level" value="Service Pack 1" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="ant.file.type.Test Automation Framework" value="file" />
+
+          <property name="env.ANT_HOME" value="D:\apache-ant-1.9.4" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SRIRAM\AppData\Local\Temp\" />
+
+          <property name="env.PROCESSOR_REVISION" value="1301" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="test.src" value="D:\Testing\Workspace\ANT_Example/src" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SystemRoot" value="C:\Windows" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value=" run" />
+
+          <property name="env.=D:" value="D:\Testing\Workspace\ANT_Example" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="D:\Testing\Workspace\ANT_Example" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\SRIRAM\AppData\Local" />
+
+          <property name="line.separator" value=" " />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.Path" value="C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Selenium\maven\bin;D:\apache-ant-1.9.4\bin;C:\Program Files\nodejs\;C:\Selenium\maven\bin;C:\Users\SRIRAM\AppData\Roaming\npm" />
+
+          <property name="basedir" value="D:\Testing\Workspace\ANT_Example" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="D:\apache-ant-1.9.4\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="SRIRAM" />
+
+          <property name="env.ESET_OPTIONS" value="                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               " />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="sun.stderr.encoding" value="cp437" />
+
+          <property name="env.USERDOMAIN" value="SRIRAM-PC" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="env.=C:" value="C:\Users\SRIRAM" />
+
+          <property name="ant.project.invoked-targets" value="run" />
+
+          <property name="env.PROCESSOR_LEVEL" value="21" />
+
+      </properties>
+
+      <testcase classname="SeleniumA.A" name="RadioButtons" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="CntrlKeyPress" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="ReadRegistryValue" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="KillProcessByName" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="CaptureScreenshot" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="VerifyDropdownValues" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="DoubleClick" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="GetAttribute" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="TestDropdowns" time="0.001">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="GetText" time="4.52" />
+
+      <testcase classname="SeleniumA.A" name="Checkbox" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="AllLinks" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <testcase classname="SeleniumA.A" name="GetTitle" time="0.0">
+          <skipped />
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 44555
+Only local connections are allowed.
+]]></system-err>
+
+  </testsuite>
+</testsuites>
